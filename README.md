@@ -13,4 +13,4 @@ Repository Nộp Bài - Python
 1. Nắm vững kiến thức Python cơ bản  
 2. Thực hành thường xuyên với GitHub  
 3. Hoàn thành tốt môn học
----
+4. Trám cám dỗ: Cờ bạc, Người yêu, Drama lớn, ...
