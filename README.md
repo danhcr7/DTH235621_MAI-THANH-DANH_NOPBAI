@@ -1,10 +1,10 @@
 # DTH235621_MAI-THANH-DANH_NOPBAI
 Repository Nộp Bài - Python
-- **Họ và Tên: ** Mai Thành Danh
-- **Mã Số Sinh Viên: ** DTH235621
-- **Lớp: ** DH24TH1
-- **Email: ** danh_dth235621@student.agu.edu.vn
-- **Số Điện Thoại Liên Hệ: ** 0369115971
+- **Họ và Tên:** Mai Thành Danh
+- **Mã Số Sinh Viên:** DTH235621
+- **Lớp:** DH24TH1
+- **Email:** danh_dth235621@student.agu.edu.vn
+- **Số Điện Thoại Liên Hệ:** 0369115971
 ## Sở Thích:
 - Thích và yêu CLB Manchester United hơn 5 năm, đá bóng và chơi game Liên Quân Mobile
 - Thích Lập trình, tìm hiểu về các cuộc thi lập trình Online
