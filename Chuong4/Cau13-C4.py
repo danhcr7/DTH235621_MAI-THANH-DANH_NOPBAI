@@ -16,4 +16,4 @@ while True:
     n = int(input()) 
     if (soHoanThien(n)): print(n, "là số hoàn thiện")
     elif (soThinhVuong(n)): print(n, "là số thịnh vượng")
-    else: print(n, "không là số hoàn thiện và thịnh vượn")    
+    else: print(n, "không là số hoàn thiện và thịnh vượng")    
