@@ -1,4 +1,4 @@
-# tính độ dài AB
+# Tính độ dài AB
 from math import *
 xa, xb, ya, yb = map(float, input().split())
 def dodaiAB(xa, xb, ya, yb):
