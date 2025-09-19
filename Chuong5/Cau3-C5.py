@@ -58,5 +58,5 @@ def yeucau5(s):
         sum += j
     return (sum/len(my_list))
 ketQua5 = yeucau5(s)
-
 print("Giá trị trung bình là:", ketQua5)
+
