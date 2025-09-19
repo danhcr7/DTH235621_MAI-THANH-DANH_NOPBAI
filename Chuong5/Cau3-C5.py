@@ -48,7 +48,6 @@ def yeucau4(s):
     return sum
 ketQua4 = yeucau4(s)
 print("Số lượng số nguyên tố là:", ketQua4)
-
 # Yêu cầu 5: Tính giá trị trung bình
 def yeucau5(s):
     sum = 0
@@ -59,4 +58,5 @@ def yeucau5(s):
         sum += j
     return (sum/len(my_list))
 ketQua5 = yeucau5(s)
+
 print("Giá trị trung bình là:", ketQua5)
